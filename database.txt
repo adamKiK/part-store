@@ -1,0 +1,5 @@
+001 oil engine 50.0 1
+002 spring suspension 25.0 1
+003 filter_wiring electronics 10.0 20
+004 filter engine 2 30
+005 brakes suspension 40 35

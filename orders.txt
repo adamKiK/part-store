@@ -1,0 +1,84 @@
+________________________________________
+### Date: 31.5.2022 21:18
+ID zamówionych części  |  Obliczony koszt części  |  Ilość
+002  |  1920  |  100
+ASD  |  0  |  123
+0000  |  0  |  23
+005  |  2117.68  |  2
+
+### CAŁKOWITY KOSZT:4037.68PLN
+### ZAMÓWIENIE POWINNO BYĆ KOMPLETNE W DNIU: 10.6.2022
+### KONIEC ZAMÓWIENIA ###
+________________________________________
+
+
+________________________________________
+### Date: 1.6.2022 1:12
+ID zamówionych części  |  Obliczony koszt części  |  Ilość
+001  |  2552  |  20
+030  |  10362.7  |  30
+
+### CAŁKOWITY KOSZT:12914.7PLN
+### ZAMÓWIENIE POWINNO BYĆ KOMPLETNE W DNIU: 9.6.2022
+### KONIEC ZAMÓWIENIA ###
+________________________________________
+
+
+________________________________________
+### Date: 3.6.2022 12:18
+ID zamówionych części  |  Obliczony koszt części  |  Ilość
+001  |  5390  |  50
+
+### CAŁKOWITY KOSZT:5390PLN
+### ZAMÓWIENIE POWINNO BYĆ KOMPLETNE W DNIU: 5.6.2022
+### KONIEC ZAMÓWIENIA ###
+________________________________________
+
+
+________________________________________
+### Date: 3.6.2022 12:22
+ID zamówionych części  |  Obliczony koszt części  |  Ilość
+001  |  5713.4  |  53
+
+### CAŁKOWITY KOSZT:5713.4PLN
+### ZAMÓWIENIE POWINNO BYĆ KOMPLETNE W DNIU: 5.6.2022
+### KONIEC ZAMÓWIENIA ###
+________________________________________
+
+
+________________________________________
+### Date: 3.6.2022 12:23
+ID zamówionych części  |  Obliczony koszt części  |  Ilość
+001  |  90317.4  |  53
+
+### CAŁKOWITY KOSZT:90317.4PLN
+### ZAMÓWIENIE POWINNO BYĆ KOMPLETNE W DNIU: 13.6.2022
+### KONIEC ZAMÓWIENIA ###
+________________________________________
+
+
+________________________________________
+### Date: 3.6.2022 12:24
+ID zamówionych części  |  Obliczony koszt części  |  Ilość
+001  |  1704.1  |  1
+
+### CAŁKOWITY KOSZT:1704.1PLN
+### ZAMÓWIENIE POWINNO BYĆ KOMPLETNE W DNIU: 13.6.2022
+### KONIEC ZAMÓWIENIA ###
+________________________________________
+
+
+________________________________________
+### Date: 4.6.2022 1:0
+ID zamówionych części  |  Obliczony koszt części  |  Ilość
+001  |  940.8  |  8
+002  |  133223  |  50
+003  |  177008  |  90
+008  |  19341.1  |  60
+
+### CAŁKOWITY KOSZT:330513PLN
+### ZAMÓWIENIE POWINNO BYĆ KOMPLETNE W DNIU: 14.6.2022
+### KONIEC ZAMÓWIENIA ###
+________________________________________
+
+

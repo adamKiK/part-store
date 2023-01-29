@@ -1,0 +1,3 @@
+/home/adam/Documents/Learning/Programming/PPO 2 Sem Zaliczenie/cmake-build-debug/CMakeFiles/2__My_first.dir
+/home/adam/Documents/Learning/Programming/PPO 2 Sem Zaliczenie/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/adam/Documents/Learning/Programming/PPO 2 Sem Zaliczenie/cmake-build-debug/CMakeFiles/rebuild_cache.dir
